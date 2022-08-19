@@ -2,7 +2,6 @@
 
 <h2 align="center">A passionate frontend developer from the Netherlands</h3>
 
-
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **React**
