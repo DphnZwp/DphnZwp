@@ -1,6 +1,4 @@
-=<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi👋, I'm Daphne Zwuup&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</h1>
+=<h1 align="center">Hi👋, I'm Daphne Zwuup</h1>
 
 <h2 align="center">A passionate frontend developer from the Netherlands</h3>
 
