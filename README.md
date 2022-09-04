@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Sveltekit**
 
 - 📫 How to reach me **zwuupdaphne@gmail.com**
 
