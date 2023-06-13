@@ -1,4 +1,6 @@
-=<h1 align="center">Hi👋, I'm Daphne Zwuup</h1>
+![Hi](https://github.com/DphnZwp/DphnZwp/assets/69635977/a8d07b80-5b02-4552-b206-882217dc38f5)
+
+<h1 align="center">Hi👋, I'm Daphne Zwuup</h1>
 
 <h2 align="center">A passionate frontend developer from the Netherlands</h3>
 
