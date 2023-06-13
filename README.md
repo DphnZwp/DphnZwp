@@ -2,13 +2,13 @@
 
 <h2 align="center">A passionate frontend developer from the Netherlands</h3>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DphnZwp)](https://github.com/DphnZwp/github-readme-stats)
-
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Sveltekit**
 
 - 📫 How to reach me **zwuupdaphne@gmail.com**
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DphnZwp)](https://github.com/DphnZwp/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
