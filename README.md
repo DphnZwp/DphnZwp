@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **zwuupdaphne@gmail.com**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DphnZwp&theme=tokyonight)](https://github.com/DphnZwp/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dphnzwp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dphnzwp" height="30" width="40" /></a>
