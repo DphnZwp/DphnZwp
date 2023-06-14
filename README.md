@@ -12,7 +12,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DphnZwp)](https://github.com/DphnZwp/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DphnZwp&theme=dracula)](https://github.com/DphnZwp/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,4 @@
 <h3 align="left">I love art</h3>
 I make my own icons my websites and i make illustrations for my personal websites.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dphnzwp&" alt="dphnzwp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dphnzwp&theme=dracula" alt="dphnzwp" /></p>
