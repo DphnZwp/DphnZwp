@@ -12,7 +12,7 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DphnZwp&theme=dracula)](https://github.com/DphnZwp/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DphnZwp&theme=dark)](https://github.com/DphnZwp/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +29,4 @@ I make my own icons for websites with **Adobe Illustrator** whenever it's possib
 
 &nbsp;
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dphnzwp&theme=dracula" alt="dphnzwp" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dphnzwp&theme=dark" alt="dphnzwp" /></p>
