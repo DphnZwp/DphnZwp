@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **zwuupdaphne@gmail.com**
 
