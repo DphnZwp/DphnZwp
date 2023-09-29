@@ -4,9 +4,9 @@
 
 <h2 align="center">A passionate frontend developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **Automate website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Blazor and Radzen**
 
 - 📫 How to reach me **zwuupdaphne@gmail.com**
 
