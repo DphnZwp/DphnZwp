@@ -4,7 +4,7 @@
 
 <h2 align="center">A passionate frontend developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on **Automate website**
+- 🔭 I’m currently working on **Automate website** at the company I work for, **Innovative365**.
 
 - 🌱 I’m currently learning **Blazor and Radzen**
 
